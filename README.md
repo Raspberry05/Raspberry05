@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DA6F7&center=true&vCenter=true&width=435&lines=3D+Web+Developer;React+%7C+TypeScript+%7C+CesiumJS;Full-Stack+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
@@ -40,9 +39,9 @@ Currently working on geospatial visualization tools and full-stack platforms.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Aeroscope**](https://github.com/Raspberry05/WGeo) | 3D real-time air-traffic viewer on a CesiumJS globe | React, TypeScript, CesiumJS, Next.js |
 | [**Cubica**](https://github.com/Raspberry05/Cubica) | Home improvement estimating platform with pricing engine | Next.js, Prisma, NeonDB, Stripe |
 | [**UpSkill Sandpaper**](https://github.com/Raspberry05/UpskillSandpaper) | EdTech marketplace with live streaming & i18n | Next.js, tRPC, Drizzle, Clerk, Stripe |
+| [**Aeroscope**](https://github.com/Raspberry05/WGeo) | 3D real-time air-traffic viewer on a CesiumJS globe | React, TypeScript, CesiumJS, Next.js |
 
 ---
 
@@ -70,4 +69,3 @@ Currently working on geospatial visualization tools and full-stack platforms.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Raspberry05&color=6DA6F7&style=flat-square&label=Profile+Views" />
 </div>
-```
