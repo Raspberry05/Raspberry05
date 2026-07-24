@@ -6,13 +6,15 @@
 
 ### About Me
 
-Building interactive 3D web applications with React, TypeScript, and CesiumJS.  
-Founder of **UpSkill Community** — an EdTech marketplace connecting students with live instructors.  
-Currently working on geospatial visualization tools and full-stack platforms.
+I started as a 3D artist — spent years building worlds, characters, and visual stories. Somewhere along the way I fell in love with code and never looked back. Now I build interactive web applications that live at the intersection of art and engineering.
 
-- Dive into geospatial web apps
-- Explore interactive 3D visualizations
-- Build platforms that connect people
+What drives me:
+- **Connecting people** — I founded **UpSkill Community** to create spaces where people teach and learn from each other. Education should be accessible and human.
+- **The craft** — I care about UI that feels right, code that's clean, and 3D experiences that make people stop and look. My background in 3D art gives me a different lens on frontend development — I think in space, light, and motion, not just components and state.
+- **Building things** — There's nothing quite like the feeling of an idea turning into something real in the browser. I chase that feeling.
+
+Currently exploring geospatial visualization, real-time 3D on the web, and full-stack platforms that solve real problems. Always building something.
+
 
 
 ---
