@@ -14,6 +14,7 @@ Currently working on geospatial visualization tools and full-stack platforms.
 - Explore interactive 3D visualizations
 - Build platforms that connect people
 
+
 ---
 
 ### Tech Stack
@@ -33,6 +34,7 @@ Currently working on geospatial visualization tools and full-stack platforms.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
+
 ---
 
 ### Featured Projects
@@ -47,14 +49,9 @@ Currently working on geospatial visualization tools and full-stack platforms.
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raspberry05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspberry05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</div>
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Raspberry05&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raspberry05&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raspberry05&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-</div>
 
 ---
 
