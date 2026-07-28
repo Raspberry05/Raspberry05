@@ -43,8 +43,8 @@ Currently exploring geospatial visualization, real-time 3D on the web, and full-
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Cubica**](https://github.com/Raspberry05/Cubica) | Home improvement estimating platform with pricing engine | Next.js, Prisma, NeonDB, Stripe |
-| [**UpSkill Sandpaper**](https://github.com/Raspberry05/UpskillSandpaper) | EdTech marketplace with live streaming & i18n | Next.js, tRPC, Drizzle, Clerk, Stripe |
+| [**Cubica**](https://cubica.dev/) | Home improvement estimating platform with pricing engine | Next.js, Prisma, NeonDB, Stripe |
+| [**UpSkill Community**](https://upskillcommunity.net/) | EdTech marketplace with live streaming & i18n | Next.js, tRPC, Drizzle, Clerk, Stripe |
 | [**Aeroscope**](https://github.com/Raspberry05/WGeo) | 3D real-time air-traffic viewer on a CesiumJS globe | React, TypeScript, CesiumJS, Next.js |
 
 ---
